@@ -1,0 +1,6 @@
+["roller"] = {
+		label = "Paires de roller",
+		weight = 500,
+		stack = false,
+		close = true,
+	},
